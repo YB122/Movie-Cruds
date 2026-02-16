@@ -392,7 +392,7 @@ This project is open source and available under the [Movie-Cruds](https://yb122.
 
 **[Your Name]**
 - GitHub: [@YB122](https://github.com/YB122)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/youssef-benyamine-b55a81219/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/posts/youssef-benyamine-b55a81219_javascript-webdevelopment-crud-activity-7429109062514085889-xivS)
 
 ## 🙏 Acknowledgments
 
