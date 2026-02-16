@@ -392,7 +392,7 @@ This project is open source and available under the [Movie-Cruds](https://yb122.
 
 **[Your Name]**
 - GitHub: [@YB122](https://github.com/YB122)
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/youssef-benyamine-b55a81219/])
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/youssef-benyamine-b55a81219/)
 
 ## 🙏 Acknowledgments
 
@@ -406,7 +406,7 @@ This project is open source and available under the [Movie-Cruds](https://yb122.
 
 For questions, suggestions, or collaboration:
 - Email: youssefbenyamine2eme@gmail.com
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/youssef-benyamine-b55a81219/])
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/youssef-benyamine-b55a81219/)
 
 
 ---
